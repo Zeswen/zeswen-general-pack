@@ -1,0 +1,30 @@
+{
+  "name": "zeswen-general-pack",
+  "displayName": "Zeswen's General Pack",
+  "description": "My general extension pack.",
+  "publisher": "Zeswen",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "DavidAnson.vscode-markdownlint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "Equinusocio.vsc-community-material-theme",
+    "PKief.material-icon-theme",
+    "IBM.output-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-medical-terms",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "vector-of-bool.gitflow",
+    "wayou.vscode-todo-highlight",
+    "yzhang.markdown-all-in-one",
+    "wmaurer.change-case"
+  ]
+}
