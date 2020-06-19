@@ -3,6 +3,10 @@
   "displayName": "Zeswen's General Pack",
   "description": "My general extension pack.",
   "publisher": "Zeswen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeswen/zeswen-general-pack.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.46.0"
